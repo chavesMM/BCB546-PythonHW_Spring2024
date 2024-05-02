@@ -9,14 +9,14 @@ Complete Python code in a Jupyter Notebook, following instructions in the instru
 
 FOLDER DESCRIPTION:
 
-- Data: contains raw initial data
-  a. penguins_cytb.fasta: DNA data for 12 species of penguins in FASTA format.
-  b. penguins_mass.csv: Mass (kg) data for 12 species of penquins in CSV format.
+1. Data: contains raw initial data
+- penguins_cytb.fasta: DNA data for 12 species of penguins in FASTA format.
+- penguins_mass.csv: Mass (kg) data for 12 species of penquins in CSV format.
 
-- Instructions
-  a. instructions_README.md: README file briefly describing the steps to proceed in this assignment.
-  b. sequence_translate.py: Python file containing speciifc details for the development of the analysis, as well as "Dr.X" script and comments.
+2. Instructions
+- instructions_README.md: README file briefly describing the steps to proceed in this assignment.
+- sequence_translate.py: Python file containing speciifc details for the development of the analysis, as well as "Dr.X" script and comments.
 
-JUPYTER NOTEBOOK:
+3. JUPYTER NOTEBOOK:
 - "PythonAssignment.ipynb" file is the jupyter notebook containing all the documentation and script necessary to perform this assignment. 
 - During this assignment, you will use both files from the Data folder, and will obtain a "penguins_df" dataframe as output. 
